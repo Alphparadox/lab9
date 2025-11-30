@@ -1,0 +1,6002 @@
+{
+    "Counting+1_0_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_0_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_0_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_1_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_1_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_1_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_2_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_2_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_2_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_3_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_3_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_3_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_4_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_4_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_4_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_5_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_5_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_5_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_6_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_6_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_6_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_7_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_7_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_7_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_8_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_8_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_8_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_9_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_9_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_9_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_10_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_10_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_10_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_11_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_11_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_11_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_12_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_12_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_12_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_13_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_13_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_13_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_14_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_14_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_14_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_15_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_15_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_15_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_16_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_16_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_16_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_17_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_17_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_17_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_18_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_18_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_18_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_19_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_19_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_19_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_20_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_20_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_20_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_21_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_21_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_21_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_22_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_22_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_22_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_23_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_23_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_23_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_24_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_24_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_24_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_25_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_25_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_25_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_26_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_26_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_26_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_27_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_27_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_27_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_28_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_28_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_28_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_29_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_29_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_29_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_30_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_30_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_30_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_31_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_31_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_31_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_32_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_32_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_32_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_33_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_33_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_33_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_34_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_34_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_34_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_35_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_35_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_35_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_36_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_36_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_36_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_37_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_37_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_37_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_38_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_38_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_38_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_39_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_39_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_39_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_40_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_40_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_40_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_41_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_41_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_41_2": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_42_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_42_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_42_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_43_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_43_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_43_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_44_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_44_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_44_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "3",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+1_45_0": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_45_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_45_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_46_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_46_1": {
+        "transform": "Counting+1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_46_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_47_0": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_47_1": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_47_2": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "5",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+1_48_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_48_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_48_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_49_0": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_49_1": {
+        "transform": "Counting+1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+1_49_2": {
+        "transform": "Counting+1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "4",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_0_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_0_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_0_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_1_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_1_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_1_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_2_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_2_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_2_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_3_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_3_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_3_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_4_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_4_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_4_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_5_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_5_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_5_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_6_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_6_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_6_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_7_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_7_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_7_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_8_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_8_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_8_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_9_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_9_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_9_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_10_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_10_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_10_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_11_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_11_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_11_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_12_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_12_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_12_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_13_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_13_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_13_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_14_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_14_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_14_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_15_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_15_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_15_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_16_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_16_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_16_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_17_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_17_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_17_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_18_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_18_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_18_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_19_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_19_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_19_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_20_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_20_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_20_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_21_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_21_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_21_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_22_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_22_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_22_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_23_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_23_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_23_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_24_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_24_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_24_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_25_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_25_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_25_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_26_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_26_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_26_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_27_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_27_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_27_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_28_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_28_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_28_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_29_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_29_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_29_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_30_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_30_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_30_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_31_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_31_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_31_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_32_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_32_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_32_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_33_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_33_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_33_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_34_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_34_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_34_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_35_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_35_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_35_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_36_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_36_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_36_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_37_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_37_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_37_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_38_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_38_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_38_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_39_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_39_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_39_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_40_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_40_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_40_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_41_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_41_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_41_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_42_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_42_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_42_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_43_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_43_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_43_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "5",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "2"
+    },
+    "Counting+2_44_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_44_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_44_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_45_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_45_1": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_45_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_46_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_46_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_46_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_47_0": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_47_1": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_47_2": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "6",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "3"
+    },
+    "Counting+2_48_0": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_48_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_48_2": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_49_0": {
+        "transform": "Counting+2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_49_1": {
+        "transform": "Counting+2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting+2_49_2": {
+        "transform": "Counting+2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "2",
+        "train_output_value": "4",
+        "test_input_value": "2",
+        "incorrect_test_output_value": "1"
+    },
+    "Counting-1_0_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_0_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_0_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_1_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_1_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_1_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_2_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_2_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_2_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_3_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_3_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_3_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_4_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_4_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_4_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_5_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_5_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_5_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_6_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_6_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_6_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_7_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_7_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_7_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_8_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_8_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_8_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_9_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_9_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_9_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_10_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_10_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_10_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_11_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_11_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_11_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_12_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_12_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_12_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_13_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_13_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_13_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_14_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_14_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_14_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_15_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_15_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_15_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_16_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_16_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_16_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_17_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_17_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_17_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_18_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_18_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_18_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_19_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_19_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_19_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_20_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_20_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_20_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_21_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_21_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_21_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_22_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_22_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_22_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_23_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_23_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_23_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_24_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_24_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_24_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_25_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_25_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_25_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_26_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_26_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_26_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_27_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_27_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_27_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_28_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_28_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_28_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_29_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_29_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_29_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_30_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_30_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_30_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_31_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_31_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_31_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_32_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_32_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_32_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_33_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_33_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_33_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_34_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_34_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_34_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_35_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_35_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_35_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_36_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_36_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_36_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_37_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_37_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_37_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_38_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_38_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_38_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_39_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_39_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_39_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_40_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_40_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_40_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_41_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_41_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_41_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_42_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_42_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_42_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_43_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_43_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_43_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_44_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_44_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_44_2": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_45_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_45_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_45_2": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_46_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_46_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_46_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "4",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-1_47_0": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_47_1": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_47_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_48_0": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_48_1": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_48_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "2",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-1_49_0": {
+        "transform": "Counting-1",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_49_1": {
+        "transform": "Counting-1",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-1_49_2": {
+        "transform": "Counting-1",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "3",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_0_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_0_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_0_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_1_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_1_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_1_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_2_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_2_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_2_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_3_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_3_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_3_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_4_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_4_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_4_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_5_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_5_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_5_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_6_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_6_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_6_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_7_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_7_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_7_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_8_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_8_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_8_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_9_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_9_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_9_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_10_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_10_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_10_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_11_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_11_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_11_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_12_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_12_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_12_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_13_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_13_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_13_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_14_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_14_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_14_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_15_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_15_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_15_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_16_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_16_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_16_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_17_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_17_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_17_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_18_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_18_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_18_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_19_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_19_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_19_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_20_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_20_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_20_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_21_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_21_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_21_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_22_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_22_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_22_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_23_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_23_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_23_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_24_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_24_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_24_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_25_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_25_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_25_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_26_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_26_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_26_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_27_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_27_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_27_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_28_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_28_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_28_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_29_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_29_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_29_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_30_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_30_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_30_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_31_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_31_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_31_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_32_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_32_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_32_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_33_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_33_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_33_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_34_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_34_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_34_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_35_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_35_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_35_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_36_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_36_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_36_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_37_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_37_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_37_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_38_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_38_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_38_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_39_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_39_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_39_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_40_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_40_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_40_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_41_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_41_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_41_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_42_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_42_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_42_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_43_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_43_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_43_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_44_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_44_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_44_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_45_0": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_45_1": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_45_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "3",
+        "train_output_value": "1",
+        "test_input_value": "3",
+        "incorrect_test_output_value": "4"
+    },
+    "Counting-2_46_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_46_1": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_46_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_47_0": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_47_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_47_2": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "4",
+        "train_output_value": "2",
+        "test_input_value": "4",
+        "incorrect_test_output_value": "5"
+    },
+    "Counting-2_48_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_48_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_48_2": {
+        "transform": "Counting-2",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_49_0": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_49_1": {
+        "transform": "Counting-2",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    },
+    "Counting-2_49_2": {
+        "transform": "Counting-2",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "5",
+        "train_output_value": "3",
+        "test_input_value": "5",
+        "incorrect_test_output_value": "6"
+    }
+}

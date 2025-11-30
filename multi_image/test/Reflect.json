@@ -1,0 +1,3002 @@
+{
+    "ReflectX_0_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_0_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_0_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_1_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_1_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_1_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_2_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_2_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_2_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_3_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_3_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_3_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_4_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_4_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_4_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_5_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_5_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_5_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_6_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_6_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_6_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_7_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_7_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_7_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_8_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_8_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_8_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_9_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_9_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_9_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_10_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_10_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_10_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_11_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_11_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_11_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_12_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_12_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_12_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_13_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_13_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_13_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_14_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_14_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_14_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_15_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_15_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_15_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_16_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_16_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_16_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_17_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_17_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_17_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_18_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_18_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_18_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_19_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_19_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_19_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_20_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_20_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_20_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_21_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_21_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_21_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_22_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_22_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_22_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_23_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_23_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_23_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_24_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_24_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_24_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_25_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_25_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_25_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_26_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_26_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_26_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_27_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_27_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_27_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_28_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_28_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_28_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_29_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_29_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_29_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_30_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_30_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_30_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_31_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_31_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_31_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_32_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_32_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_32_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_33_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_33_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_33_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_34_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_34_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_34_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_35_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_35_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_35_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_36_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_36_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_36_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_37_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_37_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_37_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_38_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_38_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_38_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_39_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_39_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_39_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_40_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_40_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_40_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_41_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_41_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_41_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_42_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_42_1": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_42_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_43_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_43_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_43_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_44_0": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_44_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_44_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_45_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_45_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_45_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_46_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_46_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_46_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_47_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_47_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_47_2": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_48_0": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_48_1": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_48_2": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_49_0": {
+        "transform": "ReflectX",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_49_1": {
+        "transform": "ReflectX",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectX_49_2": {
+        "transform": "ReflectX",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "X",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "Y"
+    },
+    "ReflectY_0_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_0_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_0_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_1_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_1_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_1_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_2_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_2_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_2_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_3_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_3_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_3_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_4_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_4_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_4_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_5_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_5_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_5_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_6_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_6_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_6_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_7_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_7_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_7_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_8_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_8_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_8_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_9_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_9_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_9_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_10_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_10_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_10_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_11_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_11_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_11_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_12_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_12_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_12_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_13_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_13_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_13_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_14_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_14_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_14_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_15_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_15_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_15_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_16_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_16_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_16_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_17_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_17_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_17_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_18_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_18_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_18_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_19_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_19_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_19_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_20_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_20_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_20_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_21_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_21_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_21_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_22_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_22_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_22_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_23_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_23_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_23_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_24_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_24_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_24_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_25_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_25_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_25_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_26_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_26_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_26_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_27_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_27_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_27_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_28_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_28_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_28_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_29_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_29_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_29_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_30_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_30_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_30_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_31_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_31_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_31_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_32_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_32_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_32_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_33_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_33_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_33_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_34_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_34_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_34_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_35_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_35_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_35_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_36_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_36_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_36_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_37_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_37_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_37_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_38_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_38_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_38_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_39_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_39_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_39_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_40_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_40_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_40_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_41_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_41_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_41_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_42_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_42_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_42_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_43_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_43_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_43_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_44_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_44_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_44_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_45_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_45_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_45_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_46_0": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_46_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_46_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_47_0": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_47_1": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_47_2": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_48_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_48_1": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_48_2": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_49_0": {
+        "transform": "ReflectY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_49_1": {
+        "transform": "ReflectY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    },
+    "ReflectY_49_2": {
+        "transform": "ReflectY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "Y",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "X"
+    }
+}

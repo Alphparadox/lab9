@@ -1,0 +1,4502 @@
+{
+    "2DRotation+90_0_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_0_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_0_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_1_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_1_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_1_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_2_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_2_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_2_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_3_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_3_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_3_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_4_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_4_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_4_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_5_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_5_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_5_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_6_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_6_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_6_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_7_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_7_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_7_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_8_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_8_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_8_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_9_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_9_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_9_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_10_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_10_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_10_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_11_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_11_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_11_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_12_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_12_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_12_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_13_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_13_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_13_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_14_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_14_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_14_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_15_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_15_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_15_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_16_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_16_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_16_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_17_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_17_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_17_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_18_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_18_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_18_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_19_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_19_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_19_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_20_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_20_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_20_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_21_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_21_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_21_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_22_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_22_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_22_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_23_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_23_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_23_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_24_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_24_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_24_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_25_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_25_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_25_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_26_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_26_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_26_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_27_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_27_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_27_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_28_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_28_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_28_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_29_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_29_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_29_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_30_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_30_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_30_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_31_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_31_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_31_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_32_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_32_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_32_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_33_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_33_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_33_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_34_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_34_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_34_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_35_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_35_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_35_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_36_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_36_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_36_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_37_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_37_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_37_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_38_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_38_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_38_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_39_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_39_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_39_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_40_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_40_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_40_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_41_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_41_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_41_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_42_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_42_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_42_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_43_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_43_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_43_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_44_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_44_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_44_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_45_0": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_45_1": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_45_2": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_46_0": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_46_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_46_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_47_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_47_1": {
+        "transform": "2DRotation+90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_47_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_48_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_48_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_48_2": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_49_0": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_49_1": {
+        "transform": "2DRotation+90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation+90_49_2": {
+        "transform": "2DRotation+90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "+90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_0_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_0_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_0_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_1_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_1_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_1_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_2_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_2_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_2_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_3_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_3_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_3_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_4_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_4_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_4_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_5_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_5_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_5_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_6_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_6_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_6_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_7_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_7_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_7_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_8_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_8_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_8_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_9_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_9_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_9_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_10_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_10_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_10_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_11_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_11_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_11_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_12_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_12_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_12_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_13_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_13_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_13_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_14_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_14_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_14_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_15_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_15_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_15_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_16_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_16_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_16_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_17_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_17_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_17_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_18_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_18_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_18_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_19_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_19_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_19_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_20_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_20_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_20_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_21_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_21_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_21_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_22_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_22_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_22_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_23_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_23_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_23_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_24_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_24_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_24_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_25_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_25_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_25_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_26_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_26_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_26_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_27_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_27_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_27_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_28_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_28_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_28_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_29_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_29_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_29_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_30_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_30_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_30_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_31_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_31_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_31_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_32_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_32_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_32_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_33_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_33_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_33_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_34_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_34_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_34_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_35_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_35_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_35_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_36_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_36_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_36_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_37_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_37_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_37_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_38_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_38_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_38_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_39_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_39_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_39_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_40_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_40_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_40_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_41_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_41_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_41_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_42_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_42_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_42_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_43_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_43_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_43_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_44_0": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_44_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_44_2": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_45_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_45_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_45_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_46_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_46_1": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_46_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_47_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_47_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_47_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_48_0": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_48_1": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_48_2": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_49_0": {
+        "transform": "2DRotation-90",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_49_1": {
+        "transform": "2DRotation-90",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation-90_49_2": {
+        "transform": "2DRotation-90",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "-90",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "180"
+    },
+    "2DRotation180_0_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_0_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_0_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_1_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_1_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_1_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_2_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_2_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_2_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_3_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_3_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_3_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_4_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_4_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_4_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_5_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_5_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_5_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_6_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_6_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_6_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_7_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_7_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_7_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_8_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_8_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_8_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_9_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_9_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_9_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_10_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_10_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_10_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_11_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_11_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_11_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_12_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_12_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_12_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_13_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_13_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_13_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_14_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_14_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_14_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_15_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_15_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_15_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_16_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_16_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_16_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_17_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_17_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_17_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_18_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_18_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_18_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_19_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_19_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_19_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_20_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_20_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_20_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_21_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_21_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_21_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_22_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_22_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_22_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_23_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_23_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_23_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_24_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_24_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_24_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_25_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_25_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_25_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_26_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_26_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_26_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_27_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_27_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_27_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_28_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_28_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_28_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_29_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_29_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_29_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_30_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_30_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_30_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_31_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_31_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_31_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_32_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_32_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_32_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_33_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_33_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_33_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_34_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_34_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_34_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_35_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_35_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_35_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_36_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_36_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_36_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_37_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_37_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_37_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_38_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_38_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_38_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_39_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_39_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_39_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_40_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_40_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_40_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_41_0": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_41_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_41_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_42_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_42_1": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_42_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_43_0": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_43_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_43_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_44_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_44_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_44_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_45_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_45_1": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_45_2": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_46_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_46_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_46_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_47_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_47_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_47_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_48_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_48_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_48_2": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_49_0": {
+        "transform": "2DRotation180",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_49_1": {
+        "transform": "2DRotation180",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    },
+    "2DRotation180_49_2": {
+        "transform": "2DRotation180",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "180",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "+90"
+    }
+}

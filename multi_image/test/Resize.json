@@ -1,0 +1,3002 @@
+{
+    "Resize0.5XY_0_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_0_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_0_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_1_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_1_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_1_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_2_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_2_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_2_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_3_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_3_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_3_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_4_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_4_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_4_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_5_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_5_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_5_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_6_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_6_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_6_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_7_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_7_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_7_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_8_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_8_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_8_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_9_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_9_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_9_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_10_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_10_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_10_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_11_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_11_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_11_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_12_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_12_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_12_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_13_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_13_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_13_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_14_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_14_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_14_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_15_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_15_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_15_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_16_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_16_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_16_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_17_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_17_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_17_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_18_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_18_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_18_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_19_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_19_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_19_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_20_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_20_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_20_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_21_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_21_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_21_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_22_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_22_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_22_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_23_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_23_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_23_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_24_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_24_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_24_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_25_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_25_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_25_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_26_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_26_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_26_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_27_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_27_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_27_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_28_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_28_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_28_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_29_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_29_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_29_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_30_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_30_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_30_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_31_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_31_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_31_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_32_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_32_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_32_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_33_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_33_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_33_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_34_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_34_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_34_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_35_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_35_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_35_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_36_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_36_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_36_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_37_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_37_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_37_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_38_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_38_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_38_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_39_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_39_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_39_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_40_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_40_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_40_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_41_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_41_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_41_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_42_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_42_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_42_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_43_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_43_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_43_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_44_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_44_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_44_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_45_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_45_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_45_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_46_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_46_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_46_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_47_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_47_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_47_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_48_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_48_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_48_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_49_0": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_49_1": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize0.5XY_49_2": {
+        "transform": "Resize0.5XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "0.5XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "2XY"
+    },
+    "Resize2XY_0_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_0_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_0_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_1_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_1_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_1_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_2_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_2_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_2_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_3_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_3_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_3_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_4_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_4_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_4_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_5_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_5_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_5_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_6_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_6_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_6_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_7_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_7_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_7_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_8_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_8_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_8_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_9_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_9_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_9_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_10_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_10_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_10_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_11_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_11_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_11_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_12_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_12_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_12_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_13_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_13_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_13_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_14_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_14_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_14_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_15_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_15_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_15_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_16_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_16_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_16_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_17_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_17_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_17_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_18_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_18_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_18_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_19_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_19_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_19_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_20_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_20_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_20_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_21_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_21_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_21_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_22_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_22_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_22_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_23_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_23_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_23_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_24_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_24_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_24_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_25_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_25_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_25_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_26_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_26_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_26_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_27_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_27_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_27_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_28_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_28_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_28_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_29_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_29_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_29_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_30_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_30_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_30_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_31_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_31_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_31_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_32_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_32_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_32_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_33_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_33_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_33_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_34_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_34_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_34_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_35_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_35_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_35_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_36_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_36_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_36_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_37_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_37_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_37_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_38_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_38_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_38_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_39_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_39_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_39_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_40_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_40_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_40_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_41_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_41_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_41_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_42_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_42_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_42_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_43_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_43_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_43_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_44_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_44_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_44_2": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(B)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_45_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_45_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_45_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_46_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_46_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_46_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_47_0": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_47_1": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_47_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_48_0": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(C)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_48_1": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(A)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_48_2": {
+        "transform": "Resize2XY",
+        "correct": "(C)",
+        "incorrect": "(B)",
+        "nochange": "(A)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_49_0": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_49_1": {
+        "transform": "Resize2XY",
+        "correct": "(A)",
+        "incorrect": "(C)",
+        "nochange": "(B)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    },
+    "Resize2XY_49_2": {
+        "transform": "Resize2XY",
+        "correct": "(B)",
+        "incorrect": "(A)",
+        "nochange": "(C)",
+        "train_input_value": "0",
+        "train_output_value": "2XY",
+        "test_input_value": "0",
+        "incorrect_test_output_value": "0.5XY"
+    }
+}
